@@ -1,5 +1,9 @@
-# Spring Boot CRUD Operations using REST APIs
+# Angular | Spring Boot | MySQL | Full Stack
 ## Employee Management System
+
+## Angular Frontend 
+https://github.com/ManthanK-24/Employee_Management_System_Angular/ 
+
 ## Architecture
 ![Architecture-Image](./architecture.png)
 
